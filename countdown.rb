@@ -6,4 +6,5 @@ def countdown
   puts "#{number} SECONDS(S)!"
   x-=1
 end
+countdown
 end
